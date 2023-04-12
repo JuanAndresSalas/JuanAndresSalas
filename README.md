@@ -5,7 +5,7 @@
       <details>
         <summary> <h4>Módulo 2 - Fundamentos del Desarrollo Front End</h4> </summary>
           <h5> 1.- Aspectos principales del desarrollo en web</h5>
-            - <a href="https://github.com/JuanAndresSalas/M2-ABRPO_1.git">Actividad Grupal: M2-ABRPO_1</a>
+            - <a href="https://github.com/JuanAndresSalas/M2-ABRPO_1.git" target="_blank">Actividad Grupal: M2-ABRPO_1</a>
           <h5> 2.- Hojas de Estilos CSS</h5>
             - <a href="https://github.com/JuanAndresSalas/M2-ABRPO_2.git">Actividad Grupal: M2-ABRPO_2</a>
             - <a href="https://github.com/JuanAndresSalas/M2-ABP_Portafolio.git">Actividad Personal: M2-ABP_Portafolio</a>
