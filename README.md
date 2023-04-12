@@ -1,7 +1,7 @@
 
 
 <details>
-  <summary><h3>Índice Actividades Bootcamp</h3></summary>
+  <summary><h2>Índice Actividades Bootcamp</h2></summary>
       <details>
         <summary><h4>Módulo 2 - Fundamentos del Desarrollo Front End</h4> </summary>
            <h5> 1.- Aspectos principales del desarrollo en web</h5>
